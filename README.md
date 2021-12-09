@@ -5,6 +5,6 @@ Hi, I'm Charles Lowde. I have recently graduated from the Data Analytics course 
 ## Black Dog Institute Fundraising Dashboard and Presentation
 The capstone project for my Data Analytics course at General Assembly was to investigate two years of data for BDI's One Foot Forward fundraiser. I cleaned and feature-engineered the data with Python, and used Power BI for visualisations and the dashboard, as requested by BDI. The presentation was well recived by the client.
 
-The Presentation Slides
+[The Presentation Slides](Presentation BDI.pdf)
 
 The Dashboard
