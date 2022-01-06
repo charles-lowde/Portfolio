@@ -15,3 +15,12 @@ The capstone project for my Data Analytics course at General Assembly was to inv
 
 <img src="/images/dash1.png" width="425"/> <img src="/images/dash2.png" width="425"/> 
 
+## Divvy Bikes Analysis and Presentation
+Another project I did for the Data Analytics course at General Assembly involved investigating data from Chicago's bike share program, and presenting my findings. I used PostgreSQL to access the database provided. Joins and unions were required to combine the multiples tables, depending on the information required. I looked into various aspect of the bike share program, but concentrated on how new bikes perfomed compared to older bikes. This included looking at how often each bike was being relocated, indicated by a trip starting at a different location to that bikes previous end location. Checking this required the use of window functions in SQL.
+I performed the analysis for this project in Excel, with the presentation in PowerPoint. I have attached the presentation below. I found that newer bikes had only two-thirds as many relocations, suggesting much less maintanence required. Overall I noted that new bikes delivered ongoing benefits:
+- Clear customer preference
+- Likely improve customer satisfaction
+- Opportunity to deliver improved product
+- Reduced service cost
+
+
