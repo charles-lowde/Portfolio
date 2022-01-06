@@ -23,4 +23,4 @@ I performed the analysis for this project in Excel, with the presentation in Pow
 - Opportunity to deliver improved product
 - Reduced service cost
 
-
+[The Presentation Slides](https://github.com/charles-lowde/Portfolio/blob/main/Divvy%20Bikes.pptx.pdf)
