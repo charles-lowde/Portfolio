@@ -13,7 +13,7 @@ The capstone project for my Data Analytics course at General Assembly was to inv
 
 [The Dashboard](https://github.com/charles-lowde/Portfolio/blob/main/OFF%20Dashboards%20Charles%20Lowde.pbix)
 
-<img src="/images/dash1.png" width="425"/> <img src="/images/dash2.png" width="425"/> 
+<img src="/images/dash1.png" width="400"/> <img src="/images/dash2.png" width="400"/> 
 
 ## Divvy Bikes Analysis and Presentation
 Another project I did for the Data Analytics course at General Assembly involved investigating data from Chicago's bike share program, and presenting my findings. I used PostgreSQL to access the database provided. Joins and unions were required to combine the multiples tables, depending on the information required. I looked into various aspect of the bike share program, but concentrated on how new bikes perfomed compared to older bikes. This included looking at how often each bike was being relocated, indicated by a trip starting at a different location to that bikes previous end location. Checking this required the use of window functions in SQL.
