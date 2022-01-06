@@ -12,6 +12,5 @@ The capstone project for my Data Analytics course at General Assembly was to inv
 [The Presentation Slides](https://github.com/charles-lowde/Portfolio/blob/main/Presentation%20BDI.pdf)
 
 [The Dashboard](https://github.com/charles-lowde/Portfolio/blob/main/OFF%20Dashboards%20Charles%20Lowde.pbix)
-
 <img src="/images/dash1.png" width="425"/> <img src="/images/dash2.png" width="425"/> 
-![](/images/dash1.png) | ![](/images/dash2.png)
+
