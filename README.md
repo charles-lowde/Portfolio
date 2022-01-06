@@ -11,7 +11,7 @@ The capstone project for my Data Analytics course at General Assembly was to inv
 
 [The Presentation Slides](https://github.com/charles-lowde/Portfolio/blob/main/Presentation%20BDI.pdf)
 
-[The Dashboard](https://github.com/charles-lowde/Portfolio/blob/main/OFF%20Dashboards%20Charles%20Lowde.pbix)
+[The Dashboard (Power BI)](https://github.com/charles-lowde/Portfolio/blob/main/OFF%20Dashboards%20Charles%20Lowde.pbix)
 
 <img src="/images/dash1.png" width="400"/> <img src="/images/dash2.png" width="400"/> 
 
@@ -23,4 +23,4 @@ I performed the analysis for this project in Excel, with the presentation in Pow
 - Opportunity to deliver improved product
 - Reduced service cost
 
-[The Presentation Slides](https://github.com/charles-lowde/Portfolio/blob/main/Divvy%20Bikes.pptx.pdf)
+[The Presentation Slides](https://github.com/charles-lowde/Portfolio/blob/main/Divvy%20Bikes.pdf)
