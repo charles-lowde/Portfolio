@@ -24,3 +24,5 @@ I performed the analysis for this project in Excel, with the presentation in Pow
 - Reduced service cost
 
 [The Presentation Slides](https://github.com/charles-lowde/Portfolio/blob/main/Divvy%20Bikes.pdf)
+
+<img src="/images/divvy.png" width="400"/>
