@@ -13,3 +13,4 @@ The capstone project for my Data Analytics course at General Assembly was to inv
 
 [The Dashboard](https://github.com/charles-lowde/Portfolio/blob/main/OFF%20Dashboards%20Charles%20Lowde.pbix)
 
+![](/images/dash1.png)! [](/images/dash2.png)
